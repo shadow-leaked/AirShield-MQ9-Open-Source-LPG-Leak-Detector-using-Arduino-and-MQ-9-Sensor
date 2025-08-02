@@ -51,14 +51,6 @@ Where:
 
 ---
 
-### 📂 Repository Contents
-
-- `/Arduino` — Main Arduino sketch
-- `/docs` — Calibration and technical documentation
-- `/assets` — Demo video/images (optional)
-
----
-
 ### © License
 This project is licensed under the **MIT License**.  
 Maintained with ❤️ by **Aditya Sharma/ NIELIT Imphal, Drone Electronics**
